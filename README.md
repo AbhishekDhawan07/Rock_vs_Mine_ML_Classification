@@ -484,14 +484,13 @@ The following bar charts were generated directly from the notebook, comparing al
 
 ### 🏋️ Training Accuracy Comparison
 
-![Training Accuracy Comparison of Different Models](../Training%20Accuracy%20Comparision%20of%20Different%20Models.png)
+![Training Accuracy Comparison](Training%20Accuracy%20Comparision%20of%20Different%20Models.png)
 
 <br>
 
 ### 🧪 Testing Accuracy Comparison
 
-![Testing Accuracy Comparison of Different Models](../Testing%20Accuracy%20Comparision%20of%20Different%20Models.png)
-
+![Testing Accuracy Comparison](Testing%20Accuracy%20Comparision%20of%20Different%20Models.png)
 <br>
 
 > 📌 **Reading the Charts:**
