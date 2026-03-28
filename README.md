@@ -68,8 +68,9 @@
 ```
 🗂️ Rock_vs_Mine_ML_Classification_using_different_ML_Models/
 │
-├── 🖼️ Training Accuracy Comparision of Different Models.png    ← 📊 Bar chart (Training)
-├── 🖼️ Testing Accuracy Comparision of Different Models.png     ← 📊 Bar chart (Testing)
+├── 📄 README.md                                                  ← at root level
+├── 🖼️ Training Accuracy Comparision of Different Models.png     ← 📊 Bar chart (Training)
+├── 🖼️ Testing Accuracy Comparision of Different Models.png      ← 📊 Bar chart (Testing)
 │
 └── 📂 Different ML Models Project - Rock VS Mine Classification/
     │
